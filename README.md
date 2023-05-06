@@ -1,6 +1,7 @@
 # sqlalchemy-challenge
 
-This is SQLAlchemy challenge undertakes a climate analysis of weather and station data from Honolulu, Hawaii between 01/01/2010 and 23/08/2017.
+This is SQLAlchemy challenge undertakes a climate analysis of weather and station data 
+from Honolulu, Hawaii between 01/01/2010 and 23/08/2017.
 
 The analysis has been broken up into two parts:
 
@@ -18,10 +19,13 @@ Use SQLAlchemy ORM queries, Pandas and Matplotlib to undertake the analysis from
         * Calculate the total number of stations in the dataset
         
         * Identify the most-active stations in the data and confirm:
-            - a list of all the stations and their number of observations within the data sorted in descending order thereby identifying the most active station
+            - a list of all the stations and their number of observations within the data sorted in descending order 
+            thereby identifying the most active station
             - Calculate the minimum, maximum and average temperatures recorded at the most active station
         
-        * Identify the temperature observations for the most recent 12 months' temperature data of the most active station as identified. Once identified then present the data on a histogram-graph with the temperature observations on the x-axis, the frequency of temperature observations on the y-axis with the observations combined into 12 bins. 
+        * Identify the temperature observations for the most recent 12 months' temperature data of the most active station as identified. 
+        Once identified then present the data on a histogram-graph with the temperature observations on the x-axis, the frequency of temperature 
+        observations on the y-axis with the observations combined into 12 bins. 
 
 **Part 2: Designing a Climate App**
 Design a Climate API application to access the SQL database using FLASK to present information in JSON format based on various API URLs
