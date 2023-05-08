@@ -9,7 +9,7 @@ The analysis has been broken up into two parts:
 Use SQLAlchemy ORM queries, Pandas and Matplotlib to undertake the analysis from an SQL database.
 
     * Precipitation Analysis
-        * Identify the most recent date from the dataset\
+        * Identify the most recent date from the dataset
 
         * Using the recent date to calculate the precipitation data for previous 12 months - the dates sorted from oldest to newest
         
